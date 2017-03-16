@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">Dynanim-helper-app</string>
+    <string name="app_name">Dynamic Animation Group</string>
+    <string name="damping_ratio">Damping Ratio</string>
+    <string name="stiffness">Stiffness</string>
+    <string name="translation_x">Translation X (px)</string>
+    <string name="translation_y">Translation Y (px)</string>
+    <string name="translation_z">Translation Z (px)</string>
+    <string name="scale_x">Scale X (%)</string>
+    <string name="scale_y">Scale Y (%)</string>
 </resources>
