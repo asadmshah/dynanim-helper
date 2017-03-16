@@ -6,6 +6,18 @@ animations of multiple properties by yourself. This library helps solve that.
 
 I should've named this library `SpringAnimationGroup`, not sure why I didn't.
 
+# Download
+
+```
+repositories {
+	maven { url = 'https://jitpack.io' }
+}
+
+dependencies {
+	compile 'com.github.asadmshah:dynanim-helper:0.1.0'
+}
+```
+
 # Usage
 
 ### SpringAnimation
