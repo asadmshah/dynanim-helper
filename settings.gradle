@@ -1,2 +1,2 @@
 rootProject.name = 'dynanim-helper'
-include ':sample', ':dynanim-helper'
+include ':sample', ':lib'
